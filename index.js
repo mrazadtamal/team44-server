@@ -43,5 +43,5 @@ app.use("/api/posts", postRoute);
 app.use("/api/categories", categoryRoute);
 
 app.listen("5000", () => {
-    console.log("Crazy Blog Server is running.");
+    console.log("Team44 Server Is Running");
 });
